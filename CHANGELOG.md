@@ -1,3 +1,10 @@
+## [0.2.3](https://github.com/onursabanoglu/new-version/compare/v0.2.2...v0.2.3) (2024-06-12)
+
+
+### Bug Fixes
+
+* update semantic release configuration ([8f0795e](https://github.com/onursabanoglu/new-version/commit/8f0795e2b0d3b459e27f681b923af366f171a98a))
+
 ## [0.2.2](https://github.com/onursabanoglu/new-version/compare/v0.2.1...v0.2.2) (2024-06-11)
 
 

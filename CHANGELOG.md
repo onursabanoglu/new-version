@@ -1,3 +1,11 @@
+## [0.11.1](https://github.com/onursabanoglu/new-version/compare/v0.11.0...v0.11.1) (2024-06-13)
+
+
+### Bug Fixes
+
+* change code ([d217db7](https://github.com/onursabanoglu/new-version/commit/d217db7be999754ef308f61006a8edc436b37c56))
+* change code ([698c228](https://github.com/onursabanoglu/new-version/commit/698c228744317a8940fb4b0653a6780cfd22e8f1))
+
 # [0.11.0](https://github.com/onursabanoglu/new-version/compare/v0.10.0...v0.11.0) (2024-06-13)
 
 
